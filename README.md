@@ -1,3 +1,6 @@
+<img height="142em" src="https://github-readme-stats.vercel.app/api?username=kristenprescott&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristenprescott&layout=compact&theme=onedark&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
 
 
 <!--
@@ -13,4 +16,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Visitors:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=kristenprescott)
+
+Profile views(colors):
+![](https://komarev.com/ghpvc/?username=kristenprescott&color=0e1117)
+
+![](https://komarev.com/ghpvc/?username=kristenprescott&color=0F1218)
+
+Stats:
+[![](https://github-readme-stats.vercel.app/api?username=kristenprescott&show_icons=true&theme=darcula&count_private=true&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true&hide_border=true)](https://github.com/kristenprescott/github-readme-stats)
+
+Top Langs:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristenprescott&layout=compact&theme=darcula&hide_border=true)](https://github.com/kristenprescott/github-readme-stats)
 -->
