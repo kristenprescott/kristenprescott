@@ -2,7 +2,6 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristenprescott&layout=compact&theme=onedark&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
 
-
 <!--
 **kristenprescott/kristenprescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
