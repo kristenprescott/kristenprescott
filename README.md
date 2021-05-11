@@ -1,4 +1,4 @@
-<h1 align="center">Hello!🌾</h1>
+<h1 align="center">Hello!</h1>
 <img align="right" height="142em" src="https://github-readme-stats.vercel.app/api?username=kristenprescott&show_icons=true&theme=onedark&count_private=true&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
 
 <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristenprescott&layout=compact&theme=onedark&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
