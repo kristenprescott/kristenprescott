@@ -6,7 +6,7 @@
 </p>
 -->
 
-<div align="center"><p><pre><samp><h1>Hello!</h1><h3>👋 Welcome to my Github! I'm Kristen.</h3></p></samp></pre></div>
+<div align="center"><p><pre><samp><h1>Hello!</h1><h3>👋 Welcome to my Github! I'm Kristen. This is what I've learned so far</h3></p></samp></pre></div>
 <br>
 
 <p align="center">
@@ -91,7 +91,7 @@
 
 
 <!-- Details -->
-<details align="center">
+<details open align="center">
     <summary> <samp>&#9776; Read More</samp></summary>
     <p align="center">
         <br>
@@ -133,6 +133,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/kristenprescott/count.svg)
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+
+
+<!--GITHUB_ACTIVITY:{"rows": 5, "raw": true}-->
+
+<!--TIMESTAMP:{"format": "dddd, MMMM Do YYYY, h:mm:ss"}-->
+
+
+
 
 </div>
 
