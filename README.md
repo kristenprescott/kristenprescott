@@ -114,9 +114,25 @@
     </p>
 </details>
 
-<div align="center>
+<samp>
+    <p align="center">
+        •-----------------------------------•
+	    <br>
+	    <br>
+         💻!
+    </p>
+</samp>
 
-![Visitor Count](https://profile-counter.glitch.me/kristenprescott/count.svg) 💻
+
+<!-- Footer -->
+
+<div align="center">
+
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/kristenprescott/count.svg)
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 
 </div>
 
