@@ -1,8 +1,6 @@
 <!--
 <p align="center">
-<a target="_blank" rel="noopener noreferrer" href="">
-<img width="100%" height="50%" src="https://user-images.githubusercontent.com/55470100/118073412-c73cd700-b379-11eb-9560-f7ca764c9285.gif" data-canonical-src="https://giphy.com/gifs/nolitacrazylab-banner-ncl-h5XiaB40tLDcAwcZoB" style="max-width:100%;">
-</a>
+<img width="100%" height="100%" src="https://user-images.githubusercontent.com/55470100/118599990-58e38480-b77e-11eb-9f82-3e3e98185d62.png" data-canonical-src="https://giphy.com/gifs/nolitacrazylab-banner-ncl-h5XiaB40tLDcAwcZoB" style="max-width:100%;">
 </p>
 -->
 
