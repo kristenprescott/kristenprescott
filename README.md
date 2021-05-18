@@ -91,7 +91,8 @@
 
 
 <!-- Details -->
-<details open align="center">
+<!-- <details open align="center"> -->
+<details align="center">
     <summary> <samp>&#9776; Read More</samp></summary>
     <p align="center">
         <br>
