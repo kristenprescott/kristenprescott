@@ -4,8 +4,13 @@
 </p>
 -->
 
-<div align="center"><p><pre><samp><h1>Hello!</h1><h3>👋 Welcome to my Github! I'm Kristen. This is what I've learned so far</h3></p></samp></pre></div>
+<div align="center"><p><pre><samp><h1>Kristen Prescott</h1><br /><p>Full-stack software developer specialized in MERN stack.
+</p><p>Here's what I've learned so far.</p></p></samp></pre></div>
 <br>
+
+
+[Portfolio](https://p-folio.herokuapp.com/)
+
 
 <p align="center">
         <!-- Code -->
@@ -113,14 +118,14 @@
     </p>
 </details>
 
-<samp>
+<!-- <samp>
     <p align="center">
         •-----------------------------------•
 	    <br>
 	    <br>
          💻!
     </p>
-</samp>
+</samp> -->
 
 
 <!-- Footer -->
@@ -129,7 +134,7 @@
 
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/kristenprescott/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/kristenprescott/count.svg) -->
 
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 
