@@ -8,8 +8,11 @@
 </p><p>Here's what I've learned so far.</p></p></samp></pre></div>
 <br>
 
-
+<div align="center">
+	
 [Portfolio](https://p-folio.herokuapp.com/)
+	
+</div>
 
 
 <p align="center">
