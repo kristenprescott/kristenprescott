@@ -4,7 +4,7 @@
 </p>
 -->
 
-<!-- IDEA: Make myself a lil header -->
+<!-- IDEA: Make myself a lil header... -->
 <!-- ![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png) -->
 
 <!-- IDEA: Make myself a lil gif! -->
@@ -156,6 +156,9 @@
 
 
 </div>
+
+<!-- IDEA: ... and footer -->
+<!-- ![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png) -->
 
 
 <!--
