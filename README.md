@@ -16,7 +16,7 @@
 
 <div align="center">
 	
-[Portfolio](https://p-folio.herokuapp.com/)
+[Portfolio](http://kprescott.herokuapp.com/)
 	
 </div>
 
@@ -116,6 +116,8 @@
         <br>
         <!-- Contact -->
         <p>Contact:</p>
+	<!-- Portfolio -->
+	<a href="http://kprescott.herokuapp.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/portfolio-%20-%230F1218"></a>
         <!-- Gmail -->
         <a href="mailto:kristennprescott@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
