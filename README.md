@@ -16,7 +16,7 @@
 
 <div align="center">
 	
-[Portfolio](http://kprescott.herokuapp.com/)
+[Portfolio](https://kprescott.herokuapp.com/)
 	
 </div>
 
@@ -117,7 +117,7 @@
         <!-- Contact -->
         <p>Contact:</p>
 	<!-- Portfolio -->
-	<a href="http://kprescott.herokuapp.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/portfolio-%20-%230F1218"></a>
+	<a href="https://kprescott.herokuapp.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/portfolio-%20-%230F1218"></a>
         <!-- Gmail -->
         <a href="mailto:kristennprescott@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
@@ -176,5 +176,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://shields.io/ >> for finding/making shields
 
 -->
