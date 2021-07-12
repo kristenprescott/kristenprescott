@@ -4,7 +4,10 @@
 </p>
 -->
 
-<!-- IDEA: Make me a lil gif! -->
+<!-- IDEA: Make myself a lil header -->
+<!-- ![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png) -->
+
+<!-- IDEA: Make myself a lil gif! -->
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 
 <div align="center"><p><pre><samp><h1>Kristen Prescott</h1><br /><p>Full-stack software developer specialized in MERN stack.
