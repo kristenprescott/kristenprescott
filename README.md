@@ -100,11 +100,11 @@
         </a>
 </p>
 
-
+<!-- <hr width="50%" style="height:5px;"> -->
 
 <!-- Details -->
-<!-- <details open align="center"> -->
-<details align="center">
+<details open align="center">
+<!-- <details align="center"> -->
     <summary> <samp>&#9776; Read More</samp></summary>
     <p align="center">
         <br>
