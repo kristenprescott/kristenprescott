@@ -109,11 +109,9 @@
     <p align="center">
         <br>
         <!-- Stats -->
-        <p align="center">
-            <img height="142em" src="https://github-readme-stats.vercel.app/api?username=kristenprescott&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
-            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristenprescott&layout=compact&theme=onedark&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
-        </p>
-        <br>
+            <img align="center" height="142em" src="https://github-readme-stats.vercel.app/api?username=kristenprescott&show_icons=true&theme=onedark&include_all_commits=true&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
+            <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristenprescott&layout=compact&theme=onedark&hide_border=true)](https://github.com/kristenprescott/github-readme-stats" />
+	    <br>
         <!-- Contact -->
         <p>Contact:</p>
 	<!-- Portfolio -->
