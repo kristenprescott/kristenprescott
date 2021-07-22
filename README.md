@@ -123,7 +123,7 @@
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
 		<!-- Portfolio -->
-	<a href="https://kprescott.herokuapp.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/portfolio-%20-%230F1218?style=flat-square"></a>
+	<a href="https://kprescott.herokuapp.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-%20-%230F1218?style=flat-square"></a>
     </p>
 </details>
 
