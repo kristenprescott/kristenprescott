@@ -1,8 +1,7 @@
-
-
-<p align="center">
-<img width="100%" height="100%" src="https://user-images.githubusercontent.com/55470100/118599990-58e38480-b77e-11eb-9f82-3e3e98185d62.png" data-canonical-src="https://giphy.com/gifs/nolitacrazylab-banner-ncl-h5XiaB40tLDcAwcZoB" style="max-width:100%;">
-</p><div align="center"><p><pre><samp><h1>Kristen Prescott</h1><br /><p>Fulltime software dev 😃 
+<div style="background-color:#140303; color:floralwhite; width:100vw;"><!--<p align="center">
+<img width="100%" height="25%" src="https://user-images.githubusercontent.com/55470100/118599990-58e38480-b77e-11eb-9f82-3e3e98185d62.png" data-canonical-src="https://giphy.com/gifs/nolitacrazylab-banner-ncl-h5XiaB40tLDcAwcZoB" style="max-width:100%;">
+</p>-->
+<div align="center"><p><pre><samp><h2>Kristen Prescott</h2><br /><p>Fulltime software dev 😃 
 </p>
 
 <div align="center"><details align="center">
@@ -25,7 +24,6 @@
 
 <!-- Footer -->
 <div align="center" text-align="center"><img align="center" height="22em" src="https://profile-counter.glitch.me/kristenprescott/count.svg" /></div>
-
 
 <!--
 **kristenprescott/kristenprescott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
