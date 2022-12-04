@@ -1,4 +1,4 @@
-<div style="background-color:#140303; color:floralwhite; width:100vw;"><!--<p align="center">
+<div style="background-color:#140303; color:floralwhite; width:75vw; height:50vh"><!--<p align="center">
 <img width="100%" height="25%" src="https://user-images.githubusercontent.com/55470100/118599990-58e38480-b77e-11eb-9f82-3e3e98185d62.png" data-canonical-src="https://giphy.com/gifs/nolitacrazylab-banner-ncl-h5XiaB40tLDcAwcZoB" style="max-width:100%;">
 </p>-->
 <div align="center"><!-- <p> --><pre><samp><h2>Kristen Prescott</h2><!-- <br /><p> Fulltime software dev
